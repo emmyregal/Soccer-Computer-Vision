@@ -1,0 +1,12 @@
+{
+  "status": "completed",
+  "source": "/Users/emmy/Library/CloudStorage/OneDrive-VirginiaTech/sports proj3/soccer_vids/pk vids  - 9.MOV",
+  "source_generation": "41149859_1794234430000000000",
+  "processing_version": "soccer_back_v0",
+  "model_file": "yolo26n-pose.pt",
+  "camera_view": "back",
+  "frames": 208,
+  "output_video": "/Users/emmy/OneDrive - Virginia Tech/sports proj3/pose_results/pk vids  - 9/annotated.mp4",
+  "output_csv": "/Users/emmy/OneDrive - Virginia Tech/sports proj3/pose_results/pk vids  - 9/pose.csv",
+  "completed_at": "2026-11-09T15:54:15.451301+00:00"
+}
